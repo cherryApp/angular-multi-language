@@ -1,0 +1,15 @@
+{
+  "name": "angular-multi-language",
+  "main": "angular-multi-language.js",
+  "version": "0.0.1",
+  "homepage": "https://github.com/cherryApp/angular-multi-language",
+  "authors": [
+    "cherryApp <j.cserko@gmail.com>"
+  ],
+  "description": "Angular translate module.",
+  "keywords": [
+    "angular",
+    "translate"
+  ],
+  "license": "MIT"
+}
