@@ -118,11 +118,4 @@ your output:
 ```
 
 ## Thanks for using the module.
-If your need help, please feel free to write an issue.
-
-
-
-
-
-
-
+If you need help, please feel free to write an issue.
