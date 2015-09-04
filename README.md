@@ -2,7 +2,7 @@
 This module translates existing models and values.
 It is not necessary to make changes to your code in order to run this module.
 ## Installation
-### Get module
+#### Get module
 Install with bower
 ```
 bower install angular-multi-language
@@ -11,15 +11,15 @@ Install with github
 ```
 git clone https://github.com/cherryApp/angular-multi-language.git
 ```
-### Add script to your webpage
+#### Add script to your webpage
 ```
 <script src="[your packages path]/angular-multi-language/angular-multi-language.js"></script>
 eg: 
 <script src="../vendor/angular-multi-language/angular-multi-language.js"></script>
 ```
-### Create language files
+#### Create language files
 eg: /lang/app-translate-en.json
-### Add module to the angular depedencies
+#### Add module to the angular depedencies
 ```
 var app = angular.module( "myModule", ["ng-ml"] );
 ```
