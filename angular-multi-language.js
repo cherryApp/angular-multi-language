@@ -119,9 +119,6 @@ ngMl.config( [ "$provide", function ( $provide ) {
 } ] )
 .service( "TranslateService", [ "NgMlConfig", '$http', '$q', function( Config, $http, $q ) {
 
-    console.log( "config", Config );
-
-
     var getTranslateFile = function() {
 
         var lang = localStorage.preferredLanguage ? localStorage.preferredLanguage : navigator.language;
